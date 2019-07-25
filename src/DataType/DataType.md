@@ -54,6 +54,7 @@ The Boolean data type specifies one bit of information, but its "size" can't be 
 
 Example: Boolean one = false
 
+
 #### Byte Data Type
 
 The byte data type is an example of primitive data type. It isan 8-bit signed two's complement integer. Its value-range lies between -128 to 127 (inclusive). Its minimum value is -128 and maximum value is 127. Its default value is 0.

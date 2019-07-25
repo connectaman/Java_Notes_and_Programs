@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f73b5d-cf65-4777-9108-5acc4fac1e09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Difference_Cpp_Java.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JVM_JRE_JDK.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal_program.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,11 +23,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Difference_Cpp_Java.md">
+        <entry file="file://$PROJECT_DIR$/JVM_JRE_JDK.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="144" selection-start-column="144" selection-end-column="144" />
+              <first_editor relative-caret-position="113">
+                <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,6 +46,8 @@
         <option value="$PROJECT_DIR$/History.md" />
         <option value="$PROJECT_DIR$/Features.md" />
         <option value="$PROJECT_DIR$/Difference_Cpp_Java.md" />
+        <option value="$PROJECT_DIR$/internal_program.md" />
+        <option value="$PROJECT_DIR$/JVM_JRE_JDK.md" />
       </list>
     </option>
   </component>
@@ -106,12 +109,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564065828093</updated>
-      <workItem from="1564065833790" duration="1375000" />
+      <workItem from="1564065833790" duration="1868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1375000" />
+    <option name="totallyTimeSpent" value="1868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -186,6 +189,26 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="144" selection-start-column="144" selection-end-column="144" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_program.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM_JRE_JDK.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="113">
+            <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>

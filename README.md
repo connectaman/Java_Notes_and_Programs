@@ -82,6 +82,14 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[History Of Java](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/History.md)|
 |[Features of Java](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/Features.md)|
 |[Difference Between C++ and Java](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/Difference_Cpp_Java.md)|
+|[Internal of Program](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/internal_program.md)|
+|[JVM,JRE,JDK](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/JVM_JRE_JDK.md)|
+|[Variables](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Variables)|
+|[Data Types](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/DataType)|
+|[Operators](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Operators)|
+|[Keywords](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Keywords/KeyWords.md)|
+|[Control Statement](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Control_Statement)|
+|[Simple if](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Control_Statement/SimpleIf)|
 |[]()|
 |[]()|
 |[]()|
@@ -89,5 +97,10 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[]()|
 |[]()|
 |[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+
 
 

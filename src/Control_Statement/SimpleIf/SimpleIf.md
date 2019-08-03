@@ -26,3 +26,22 @@ The Java if statement tests the condition. It executes the if block if condition
 
 ------
 
+
+Cases:
+```java
+class Test
+{
+public static void main(String[] args)
+{
+int i=10;
+int j;
+if(i==10)
+{
+j=20;
+}
+System.out.println(j);
+}
+}
+```
+
+Status: Compilation Error, Variable j might not have been innitialized.

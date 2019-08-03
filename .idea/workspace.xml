@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f73b5d-cf65-4777-9108-5acc4fac1e09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/Basics/basicProgram.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Basics/basicProgramSolutions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/ControlStatement/Control.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/ControlStatement/ControlProgramSolution.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
@@ -117,7 +113,7 @@
       <workItem from="1564748343152" duration="18000" />
       <workItem from="1564748412039" duration="1161000" />
       <workItem from="1564805562602" duration="76000" />
-      <workItem from="1564805660942" duration="6122000" />
+      <workItem from="1564805660942" duration="6163000" />
     </task>
     <servers />
   </component>

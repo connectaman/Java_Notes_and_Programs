@@ -92,8 +92,8 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[Simple if](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Control_Statement/SimpleIf)|
 |[If-Else](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Control_Statement/ifelse)|
 |[Ternary Operator](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Control_Statement/TernaryOperator/TernaryOperator.md)|
-|[If else if Ladder]()|
-|[]()|
+|[If else if Ladder](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Control_Statement/ifelseif)|
+|[Switch]()|
 |[]()|
 |[]()|
 |[]()|

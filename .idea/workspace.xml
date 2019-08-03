@@ -4,6 +4,12 @@
     <list default="true" id="88f73b5d-cf65-4777-9108-5acc4fac1e09" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/switch.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/TernaryOperator/TernaryOperator.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelse/Example.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelse/LeapYear.java" afterDir="false" />
@@ -35,7 +41,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -106,7 +112,7 @@
       <workItem from="1564748343152" duration="18000" />
       <workItem from="1564748412039" duration="1161000" />
       <workItem from="1564805562602" duration="76000" />
-      <workItem from="1564805660942" duration="2869000" />
+      <workItem from="1564805660942" duration="3715000" />
     </task>
     <servers />
   </component>

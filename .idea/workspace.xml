@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f73b5d-cf65-4777-9108-5acc4fac1e09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Programs/Basics/basicProgram.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Basics/basicProgramSolutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/ControlStatement/Control.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/ControlStatement/ControlProgramSolution.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
@@ -17,6 +21,7 @@
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/CheckNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/MarksExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/ifelseif.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/Iterative.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -41,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -112,7 +117,7 @@
       <workItem from="1564748343152" duration="18000" />
       <workItem from="1564748412039" duration="1161000" />
       <workItem from="1564805562602" duration="76000" />
-      <workItem from="1564805660942" duration="4079000" />
+      <workItem from="1564805660942" duration="6122000" />
     </task>
     <servers />
   </component>

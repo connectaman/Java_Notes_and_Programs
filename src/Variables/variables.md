@@ -49,3 +49,32 @@ It is called instance variable because its value is instance specific and is not
 A variable which is declared as static is called static variable. It cannot be local. You can create a single copy of static variable and share among all the instances of the class. Memory allocation for static variable happens only once when the class is loaded in the memory. 
 
 
+-------
+
+#### Java Stack and Heap: Java Memory Allocation Tutorial
+
+##### What is Stack Memory?
+
+Stack in java is a section of memory which contains methods, local variables, and reference variables. Stack memory is always referenced in Last-In-First-Out order. Local variables are created in the stack.
+##### What is Heap Memory?
+
+Heap is a section of memory which contains Objects and may also contain reference variables. Instance variables are created in the heap
+Memory Allocation in Java
+
+##### The JVM divided the memory into following sections.
+
+   - Heap
+   - Stack
+   - Code
+   - Static
+
+##### This division of memory is required for its effective management.
+
+   - The code section contains your bytecode.
+   - The Stack section of memory contains methods, local variables, and reference variables.
+   - The Heap section contains Objects (may also contain reference variables).
+   - The Static section contains Static data/methods.
+   
+ ------
+ 
+ 

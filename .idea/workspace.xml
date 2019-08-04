@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f73b5d-cf65-4777-9108-5acc4fac1e09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Programs/Iterative/IterativePrograms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Iterative/IterativeProgramsSolutions.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
@@ -18,6 +20,9 @@
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/MarksExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/ifelseif.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/Iterative.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/TransferStatement/transferStatement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/DowhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/dowhile.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/InfiniteLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/Pattern1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/Pattern2.java" afterDir="false" />
@@ -26,6 +31,9 @@
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileInfinite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/ControlStatement/Control.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/ControlStatement/Control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/ControlStatement/ControlProgramSolution.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/ControlStatement/ControlProgramSolution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/dowhile.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/dowhile.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +56,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Otn2UUWvGJYMmqXOPblw4LOBq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -144,7 +152,7 @@
       <workItem from="1564748412039" duration="1161000" />
       <workItem from="1564805562602" duration="76000" />
       <workItem from="1564805660942" duration="6194000" />
-      <workItem from="1564844082474" duration="2249000" />
+      <workItem from="1564844082474" duration="3992000" />
     </task>
     <servers />
   </component>

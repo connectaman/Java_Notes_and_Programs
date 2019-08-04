@@ -17,3 +17,7 @@
 4- Java Program to Check Leap Year 
 
 -----
+
+5- Java Program to Make a Simple Calculator Using switch...case
+
+-----

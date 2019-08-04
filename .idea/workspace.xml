@@ -18,7 +18,12 @@
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/MarksExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/ifelseif.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/Iterative.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/InfiniteLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/forLoopExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Variables/variables.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/Variables/variables.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +47,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="1Otn2UUWvGJYMmqXOPblw4LOBq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.forLoopExample">
     <configuration name="Datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataType.Datatype" />
       <module name="Java_Programming" />
@@ -86,8 +87,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InfiniteLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IterativeStatements.forloop.InfiniteLoop" />
+      <module name="Java_Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IterativeStatements.forloop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IterativeStatements.forloop.forLoopExample" />
+      <module name="Java_Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IterativeStatements.forloop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.forLoopExample" />
+        <item itemvalue="Application.InfiniteLoop" />
         <item itemvalue="Application.Datatype" />
       </list>
     </recent_temporary>
@@ -113,7 +142,7 @@
       <workItem from="1564748412039" duration="1161000" />
       <workItem from="1564805562602" duration="76000" />
       <workItem from="1564805660942" duration="6194000" />
-      <workItem from="1564844082474" duration="709000" />
+      <workItem from="1564844082474" duration="1665000" />
     </task>
     <servers />
   </component>

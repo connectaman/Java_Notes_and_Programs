@@ -22,8 +22,10 @@
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/Pattern1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/Pattern2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/forLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/while.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileInfinite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Variables/variables.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/Variables/variables.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +144,7 @@
       <workItem from="1564748412039" duration="1161000" />
       <workItem from="1564805562602" duration="76000" />
       <workItem from="1564805660942" duration="6194000" />
-      <workItem from="1564844082474" duration="1665000" />
+      <workItem from="1564844082474" duration="2249000" />
     </task>
     <servers />
   </component>

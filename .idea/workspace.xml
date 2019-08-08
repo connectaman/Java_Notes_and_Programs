@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f73b5d-cf65-4777-9108-5acc4fac1e09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/Iterative/IterativePrograms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Iterative/IterativeProgramsSolutions.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
@@ -30,10 +28,9 @@
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/while.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileInfinite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopsConcept/NamingConventions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopsConcept/Oops.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/ControlStatement/Control.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/ControlStatement/Control.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/ControlStatement/ControlProgramSolution.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/ControlStatement/ControlProgramSolution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/dowhile.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/dowhile.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +149,8 @@
       <workItem from="1564748412039" duration="1161000" />
       <workItem from="1564805562602" duration="76000" />
       <workItem from="1564805660942" duration="6194000" />
-      <workItem from="1564844082474" duration="3992000" />
+      <workItem from="1564844082474" duration="4224000" />
+      <workItem from="1565241637717" duration="1283000" />
     </task>
     <servers />
   </component>

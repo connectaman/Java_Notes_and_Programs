@@ -95,9 +95,9 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[If else if Ladder](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Control_Statement/ifelseif)|
 |[Switch](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Control_Statement/Switch)|
 |[Iterative Statements](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/IterativeStatements)|
-|[]()|
-|[]()|
-|[]()|
+|[Oops Concept](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/OopsConcept/Oops.md)|
+|[Naming Convenction](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/OopsConcept/NamingConventions.md)|
+|[Object and Classes]()|
 |[]()|
 |[]()|
 |[]()|

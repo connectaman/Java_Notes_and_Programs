@@ -29,8 +29,10 @@
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileInfinite.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/NamingConventions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopsConcept/ObjectsandClasses.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/Oops.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectId" id="1Otn2UUWvGJYMmqXOPblw4LOBq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -150,7 +152,7 @@
       <workItem from="1564805562602" duration="76000" />
       <workItem from="1564805660942" duration="6194000" />
       <workItem from="1564844082474" duration="4224000" />
-      <workItem from="1565241637717" duration="1283000" />
+      <workItem from="1565241637717" duration="2801000" />
     </task>
     <servers />
   </component>

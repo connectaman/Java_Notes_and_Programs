@@ -17,6 +17,8 @@
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/CheckNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/MarksExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/ifelseif.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/BubbleSort/BubbleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/SelectionSort/SelectionClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/Iterative.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/TransferStatement/transferStatement.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/DowhileExample.java" afterDir="false" />
@@ -34,6 +36,7 @@
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/Oops.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/Static.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/this.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectId" id="1Otn2UUWvGJYMmqXOPblw4LOBq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -84,10 +87,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bacis">
+  <component name="RunManager" selected="Application.BubbleClass">
     <configuration name="Bacis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bacis" />
       <module name="Java_Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.Sort.BubbleSort.BubbleClass" />
+      <module name="Java_Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.Sort.BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,6 +149,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleClass" />
         <item itemvalue="Application.Bacis" />
         <item itemvalue="Application.forLoopExample" />
         <item itemvalue="Application.InfiniteLoop" />
@@ -163,7 +180,7 @@
       <workItem from="1564805660942" duration="6194000" />
       <workItem from="1564844082474" duration="4224000" />
       <workItem from="1565241637717" duration="3217000" />
-      <workItem from="1565416174556" duration="7385000" />
+      <workItem from="1565416174556" duration="8837000" />
     </task>
     <servers />
   </component>

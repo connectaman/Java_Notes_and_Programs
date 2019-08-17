@@ -72,4 +72,27 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 ----
 
+10- Write Java program to print the following pattern
+```
+            * 
+            * * 
+            * * * 
+            * * * * 
+            * * * * *
+```
+
+-----------
+
+11- Write Java program to print the following pattern
+
+```
+            1
+            1 2 
+            1 2 3 
+            1 2 3 4 
+            1 2 3 4 5
+```         
+        
+------
+
 

@@ -37,7 +37,8 @@
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/Static.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/this.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Iterative/IterativePrograms.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Iterative/IterativePrograms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Iterative/IterativeProgramsSolutions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Iterative/IterativeProgramsSolutions.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Otn2UUWvGJYMmqXOPblw4LOBq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -180,7 +181,8 @@
       <workItem from="1564805660942" duration="6194000" />
       <workItem from="1564844082474" duration="4224000" />
       <workItem from="1565241637717" duration="3217000" />
-      <workItem from="1565416174556" duration="8837000" />
+      <workItem from="1565416174556" duration="8953000" />
+      <workItem from="1565880775425" duration="725000" />
     </task>
     <servers />
   </component>

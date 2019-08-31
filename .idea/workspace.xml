@@ -19,6 +19,7 @@
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/ifelseif.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/BubbleSort/BubbleClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/SelectionSort/SelectionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/Iterative.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/TransferStatement/transferStatement.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/DowhileExample.java" afterDir="false" />
@@ -37,8 +38,7 @@
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/Static.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OopsConcept/this.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/Iterative/IterativePrograms.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Iterative/IterativePrograms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/Iterative/IterativeProgramsSolutions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Iterative/IterativeProgramsSolutions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectId" id="1Otn2UUWvGJYMmqXOPblw4LOBq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -182,7 +182,10 @@
       <workItem from="1564844082474" duration="4224000" />
       <workItem from="1565241637717" duration="3217000" />
       <workItem from="1565416174556" duration="8953000" />
-      <workItem from="1565880775425" duration="725000" />
+      <workItem from="1565880775425" duration="1434000" />
+      <workItem from="1566133662891" duration="1799000" />
+      <workItem from="1567078400289" duration="597000" />
+      <workItem from="1567239949584" duration="782000" />
     </task>
     <servers />
   </component>

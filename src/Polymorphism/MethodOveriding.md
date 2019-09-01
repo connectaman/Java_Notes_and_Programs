@@ -29,15 +29,56 @@ In other words, If a subclass provides the specific implementation of the method
     //Creating a parent class  
 ```java
  class Vehicle{  
-      void run(){System.out.println("Vehicle is running");}  
-    }  
-    //Creating a child class  
-    class Bike extends Vehicle{  
-      public static void main(String args[]){  
-      //creating an instance of child class  
-      Bike obj = new Bike();  
-      //calling the method with child class instance  
-      obj.run();  
-      }  
-    } 
+   //defining a method  
+   void run(){System.out.println("Vehicle is running");}  
+ }  
+ //Creating a child class  
+ class Bike2 extends Vehicle{  
+   //defining the same method as in the parent class  
+   void run(){System.out.println("Bike is running safely");}  
+   
+   public static void main(String args[]){  
+   Bike2 obj = new Bike2();//creating object  
+   obj.run();//calling method  
+   }  
+ }  
 ```
+
+
+Example
+```java
+class Bank{  
+int getRateOfInterest(){return 0;}  
+}  
+//Creating child classes.  
+class SBI extends Bank{  
+int getRateOfInterest(){return 8;}  
+}  
+  
+class ICICI extends Bank{  
+int getRateOfInterest(){return 7;}  
+}  
+class AXIS extends Bank{  
+int getRateOfInterest(){return 9;}  
+}  
+//Test class to create objects and call the methods  
+class Test2{  
+public static void main(String args[]){  
+SBI s=new SBI();  
+ICICI i=new ICICI();  
+AXIS a=new AXIS();  
+System.out.println("SBI Rate of Interest: "+s.getRateOfInterest());  
+System.out.println("ICICI Rate of Interest: "+i.getRateOfInterest());  
+System.out.println("AXIS Rate of Interest: "+a.getRateOfInterest());  
+}  
+} 
+```
+
+-------
+
+##### Can we override static method?
+No, a static method cannot be overridden. It can be proved by runtime polymorphism, so we will learn it later.
+
+##### Why can we not override static method?
+It is because the static method is bound with class whereas instance method is bound with an object. Static belongs to the class area, and an instance belongs to the heap area. 
+

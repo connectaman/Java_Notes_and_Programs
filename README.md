@@ -109,7 +109,7 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[Final keyword](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Polymorphism/final.md)|
 |[Dynamic Binding](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Polymorphism/DynamicBinding.md)|
 |[Abstract]()|
-|[]()|
+|[Interface]()|
 |[]()|
 |[]()|
 |[]()|

@@ -23,6 +23,7 @@
       <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/BubbleSort/BubbleClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/SelectionSort/SelectionClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Encapsulation/AcessModifier.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Encapsulation.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Encapsulation/Package.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/Iterative.md" afterDir="false" />
@@ -49,6 +50,7 @@
       <change afterPath="$PROJECT_DIR$/src/Polymorphism/final.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Polymorphism/super.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +203,7 @@
       <workItem from="1566133662891" duration="1799000" />
       <workItem from="1567078400289" duration="597000" />
       <workItem from="1567239949584" duration="4961000" />
-      <workItem from="1567868265639" duration="3842000" />
+      <workItem from="1567868265639" duration="6091000" />
     </task>
     <servers />
   </component>

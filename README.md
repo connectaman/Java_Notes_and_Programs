@@ -111,10 +111,10 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[Abstract](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Abstraction/abstractClass.md)|
 |[Interface](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Abstraction/Interface.md)|
 |[Difference Between Abstract and Interface](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Abstraction/abstractvsinterface.md)|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
+|[Java Encapsulation](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Encapsulation)|
+|[Packages](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Encapsulation/Package.md)|
+|[Access Modifiers](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Encapsulation/AcessModifier.md)|
+|[Encapsulation]()|
 |[]()|
 |[]()|
 |[]()|

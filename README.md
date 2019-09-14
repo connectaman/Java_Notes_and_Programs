@@ -114,7 +114,7 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[Java Encapsulation](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Encapsulation)|
 |[Packages](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Encapsulation/Package.md)|
 |[Access Modifiers](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Encapsulation/AcessModifier.md)|
-|[Encapsulation]()|
+|[Encapsulation](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Encapsulation/Encapsulation.md)|
 |[]()|
 |[]()|
 |[]()|

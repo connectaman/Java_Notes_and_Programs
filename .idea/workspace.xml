@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/src/Abstraction/Interface.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Abstraction/abstractClass.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Abstraction/abstractvsinterface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
@@ -203,7 +204,7 @@
       <workItem from="1566133662891" duration="1799000" />
       <workItem from="1567078400289" duration="597000" />
       <workItem from="1567239949584" duration="4961000" />
-      <workItem from="1567868265639" duration="6091000" />
+      <workItem from="1567868265639" duration="7444000" />
     </task>
     <servers />
   </component>

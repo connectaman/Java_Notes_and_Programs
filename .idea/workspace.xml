@@ -6,6 +6,8 @@
       <change afterPath="$PROJECT_DIR$/src/Abstraction/abstractClass.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Abstraction/abstractvsinterface.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Collection.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
@@ -220,7 +222,7 @@
       <workItem from="1567078400289" duration="597000" />
       <workItem from="1567239949584" duration="4961000" />
       <workItem from="1567868265639" duration="9318000" />
-      <workItem from="1570196132448" duration="6067000" />
+      <workItem from="1570196132448" duration="7712000" />
     </task>
     <servers />
   </component>

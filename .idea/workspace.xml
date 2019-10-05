@@ -64,6 +64,7 @@
       <change afterPath="$PROJECT_DIR$/src/Polymorphism/final.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Polymorphism/super.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Regex/Regex.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swings/JFrame.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -219,7 +220,7 @@
       <workItem from="1567078400289" duration="597000" />
       <workItem from="1567239949584" duration="4961000" />
       <workItem from="1567868265639" duration="9318000" />
-      <workItem from="1570196132448" duration="5459000" />
+      <workItem from="1570196132448" duration="6067000" />
     </task>
     <servers />
   </component>

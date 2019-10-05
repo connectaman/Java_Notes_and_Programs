@@ -27,7 +27,9 @@
       <change afterPath="$PROJECT_DIR$/src/Encapsulation/Encapsulation.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Encapsulation/Package.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClass/AnonymousInnerClass.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/InnerClass/InnerClass.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClass/MemberInner.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/Iterative.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/TransferStatement/transferStatement.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/DowhileExample.java" afterDir="false" />
@@ -207,7 +209,7 @@
       <workItem from="1567078400289" duration="597000" />
       <workItem from="1567239949584" duration="4961000" />
       <workItem from="1567868265639" duration="9318000" />
-      <workItem from="1570196132448" duration="967000" />
+      <workItem from="1570196132448" duration="1526000" />
     </task>
     <servers />
   </component>

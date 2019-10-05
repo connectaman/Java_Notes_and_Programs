@@ -126,11 +126,12 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[Java Inner Class](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/InnerClass/InnerClass.md)|
 |[Member Inner Class](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/InnerClass/MemberInner.md)|
 |[Anonymous Inner CLass](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/InnerClass/AnonymousInnerClass.md)|
+|[Local Inner Class](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/InnerClass/LocalInner.md)|
 |[MultiThreading](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/multithreading.md)|
 |[Life Cycle of Thread](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/LifeCycle.md)|
 |[Create Thread](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/CreateThread.md)|
 |[Thread Sleep](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/ThreadSleep.md)|
-|[run() Method]()|
+|[run() Method](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/RunMethod.md)|
 |[]()|
 |[]()|
 |[]()|

@@ -11,11 +11,11 @@ The javax.swing package provides classes for java swing API such as JButton, JTe
 The methods of Component class are widely used in java swing that are given below.
 
   |Method	|Description|
-     |----|------|
-     |public void add(Component c)	|add a component on another component.|
-     |public void setSize(int width,int height)|	sets size of the component.|
-     |public void setLayout(LayoutManager m)	|sets the layout manager for the component.|
-     |public void setVisible(boolean b)	|sets the visibility of the component. It is by default false.|
+  |----|------|
+  |public void add(Component c)	|add a component on another component.|
+  |public void setSize(int width,int height)|	sets size of the component.|
+  |public void setLayout(LayoutManager m)	|sets the layout manager for the component.|
+  |public void setVisible(boolean b)	|sets the visibility of the component. It is by default false.|
      
  ------
  

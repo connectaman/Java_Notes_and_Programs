@@ -132,10 +132,10 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[Create Thread](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/CreateThread.md)|
 |[Thread Sleep](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/ThreadSleep.md)|
 |[run() Method](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/RunMethod.md)|
-|[Join]()|
-|[Naming a thread]()|
-|[]()|
-|[]()|
+|[Join](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/Join.md)|
+|[Naming a thread](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/NamingThread.md)|
+|[Priority Thread](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/Priority.md)|
+|[Daemon Thread](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Multithreading/DemonThread.md)|
 |[]()|
 |[]()|
 |[]()|

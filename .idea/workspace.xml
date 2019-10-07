@@ -7,7 +7,9 @@
       <change afterPath="$PROJECT_DIR$/src/Abstraction/abstractvsinterface.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayListExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/Collection.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/LinkedList.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
@@ -68,7 +70,6 @@
       <change afterPath="$PROJECT_DIR$/src/Regex/Regex.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/swings/JFrame.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +124,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleClass">
+  <component name="RunManager" selected="Application.ArrayListExample">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayListExample" />
+      <module name="Java_Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bacis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bacis" />
       <module name="Java_Programming" />
@@ -137,19 +151,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DataStructure.Sort.BubbleSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataType.Datatype" />
-      <module name="Java_Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataType.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.BubbleClass" />
         <item itemvalue="Application.Bacis" />
         <item itemvalue="Application.forLoopExample" />
         <item itemvalue="Application.InfiniteLoop" />
-        <item itemvalue="Application.Datatype" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +223,10 @@
       <workItem from="1567078400289" duration="597000" />
       <workItem from="1567239949584" duration="4961000" />
       <workItem from="1567868265639" duration="9318000" />
-      <workItem from="1570196132448" duration="7712000" />
+      <workItem from="1570196132448" duration="7755000" />
+      <workItem from="1570337553622" duration="55000" />
+      <workItem from="1570337815747" duration="5844000" />
+      <workItem from="1570457552161" duration="486000" />
     </task>
     <servers />
   </component>

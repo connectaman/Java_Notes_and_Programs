@@ -142,8 +142,8 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[LinkedList](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Collections/LinkedList.md)|
 |[HashSet](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Collections/HashSet.md)|
 |[TreeSet](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Collections/TreeSet.md)|
-|[HashMap]()|
-|[TreeMap]()|
+|[HashMap](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Collections/HashMap.md)|
+|[TreeMap](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Collections/TreeMap.md)|
 |[]()|
 |[]()|
 |[]()|

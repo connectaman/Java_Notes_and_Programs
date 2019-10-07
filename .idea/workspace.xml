@@ -9,7 +9,9 @@
       <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/ArrayListExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/Collection.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/HashSet.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/LinkedList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
@@ -92,7 +94,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectId" id="1Otn2UUWvGJYMmqXOPblw4LOBq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -226,7 +228,7 @@
       <workItem from="1570196132448" duration="7755000" />
       <workItem from="1570337553622" duration="55000" />
       <workItem from="1570337815747" duration="5844000" />
-      <workItem from="1570457552161" duration="486000" />
+      <workItem from="1570457552161" duration="1398000" />
     </task>
     <servers />
   </component>

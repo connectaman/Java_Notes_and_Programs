@@ -9,8 +9,10 @@
       <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/ArrayListExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/Collection.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/HashMap.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/HashSet.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/LinkedList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeMap.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
@@ -72,6 +74,7 @@
       <change afterPath="$PROJECT_DIR$/src/Regex/Regex.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/swings/JFrame.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +231,7 @@
       <workItem from="1570196132448" duration="7755000" />
       <workItem from="1570337553622" duration="55000" />
       <workItem from="1570337815747" duration="5844000" />
-      <workItem from="1570457552161" duration="1398000" />
+      <workItem from="1570457552161" duration="2564000" />
     </task>
     <servers />
   </component>

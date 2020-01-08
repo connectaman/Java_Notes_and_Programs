@@ -2,81 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f73b5d-cf65-4777-9108-5acc4fac1e09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Interface.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/abstractClass.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/abstractvsinterface.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayList.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Collection.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/HashMap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/HashSet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/LinkedList.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/TreeMap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Conditional.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/SimpleIf/ifelseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/SwitchExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/Switch/switch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/TernaryOperator/TernaryOperator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelse/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelse/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelse/if-else.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/CheckNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/MarksExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Control_Statement/ifelseif/ifelseif.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/BubbleSort/BubbleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/Sort/SelectionSort/SelectionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/AcessModifier.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Encapsulation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Package.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClass/AnonymousInnerClass.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClass/InnerClass.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClass/LocalInner.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClass/MemberInner.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/Iterative.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/TransferStatement/transferStatement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/DowhileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/dowhileloop/dowhile.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/InfiniteLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/forloop/forLoopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/while.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IterativeStatements/whileLoop/whileInfinite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/CreateThread.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/DemonThread.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Join.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/LifeCycle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/NamingThread.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Priority.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/RunMethod.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadSleep.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/multithreading.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OopsConcept/Constructors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OopsConcept/NamingConventions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OopsConcept/ObjectsandClasses.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OopsConcept/Oops.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OopsConcept/Static.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OopsConcept/this.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/DynamicBinding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOveriding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOverloading.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Polymorphism.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/final.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/super.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Regex/Regex.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swings/JFrame.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +28,13 @@
   </component>
   <component name="ProjectId" id="1Otn2UUWvGJYMmqXOPblw4LOBq9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -116,18 +49,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Polymorphism" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.ArrayListExample">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -199,6 +120,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -250,6 +183,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1578475574293">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="390" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1578475574293" />
   </component>
   <component name="masterDetails">
     <states>

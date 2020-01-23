@@ -117,11 +117,8 @@ It is used to develop rich internet applications. It uses a light-weight user in
 |[Encapsulation](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Encapsulation/Encapsulation.md)|
 |[Arrays in Java](https://github.com/connectaman/Java_Notes_and_Programs/tree/master/src/Arrays)|
 |[String in Java](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Strings/string.md)|
-|[Enum]()|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
+|[Enum](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Enumeration/enum.md)|
+|[Exception Handling]()|
 |[Java Regex](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/Regex/Regex.md)|
 |[Java Inner Class](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/InnerClass/InnerClass.md)|
 |[Member Inner Class](https://github.com/connectaman/Java_Notes_and_Programs/blob/master/src/InnerClass/MemberInner.md)|

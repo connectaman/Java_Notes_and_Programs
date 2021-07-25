@@ -71,8 +71,8 @@ Java provides Thread class to achieve thread programming. Thread class provides 
 |-----|--------|----------|
 |1) |	void 	start()| 	It is used to start the execution of the thread.|
 |2) |	void 	run() |	It is used to do an action for a thread.|
-|3) |	static void |	sleep() 	It sleeps a thread for the specified amount of time.|
-|4) |	static Thread |	currentThread() 	It returns a reference to the currently executing thread object.|
+|3) |	static void sleep() |	 	It sleeps a thread for the specified amount of time.|
+|4) |	static Thread currentThread()|	 	It returns a reference to the currently executing thread object.|
 |5) |	void 	join() |	It waits for a thread to die.|
 |6) |	int 	getPriority() |	It returns the priority of the thread.|
 |7) |	void 	setPriority() |	It changes the priority of the thread.|
